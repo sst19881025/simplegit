@@ -17,4 +17,6 @@ class SimpleGit
       end
     end
   
+    def ssttest
+    end
 end
