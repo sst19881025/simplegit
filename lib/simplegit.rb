@@ -16,13 +16,7 @@ class SimpleGit
         return `#{git_cmd} 2>&1`.chomp
       end
     end
-<<<<<<< HEAD
 
     def sst
-    end 
-=======
-  
-    def sst
     end
->>>>>>> experiment
 end
