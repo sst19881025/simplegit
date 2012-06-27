@@ -17,6 +17,6 @@ class SimpleGit
       end
     end
   
-    def ssttest
+    def ssttest_02
     end
 end
